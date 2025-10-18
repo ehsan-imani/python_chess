@@ -1,4 +1,4 @@
-# chess-by-python
+# chess by python
 <img width="921" height="969" alt="Screenshot 2025-10-18 135436" src="https://github.com/user-attachments/assets/b08af2e7-0b20-4a95-9c29-5c532a79c92d" />
 
 This is a chess game written in Python and has a nice, clean graphical user interface. Unlike the many codes you can find on GitHub and the Internet, this code is complete.
